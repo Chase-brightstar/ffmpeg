@@ -1,5 +1,8 @@
 # ffmpeg
 ffmpeg
+ffmpeg_enviromenttest   输出ffmpeg版本测试环境是否正常
+
+
 ffmpeg-pullandsavepic202107074	 阳光宅男，保存输出为jpg格式	拉流-解码-pframe-编码-保存图片
 
 
